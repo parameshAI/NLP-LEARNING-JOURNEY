@@ -31,4 +31,4 @@ I have created pipelines for the following tasks
  *Created by:* parameshwar d (B.Sc Artificial Intelligence and machine learning)
 
 ---
-*Created by:* Paramesh (B.Sc Artificial Intelligence)
+*Created by:* Parameshwar d (B.Sc Artificial Intelligence and machine learning)
